@@ -1,4 +1,4 @@
-Slightly modified js to allow `CobolScript` to work in R with `V8` by @jeroenooms.  See [code.R](https://github.com/timelyportfolio/CobolScript/blob/gh-pages/code.R) for a couple simple examples.
+Slightly modified js to allow `CobolScript` to work in R with `V8` by [@jeroenooms](https://github.com/jeroenooms).  See [code.R](https://github.com/timelyportfolio/CobolScript/blob/gh-pages/code.R) for a couple simple examples.
 
 
 **All credit/attribution should be directed to [@ajlopez](https://github.com/ajlopez/CobolScript)**
