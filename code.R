@@ -6,9 +6,9 @@ library(V8)
 
 ct = new_context("window")
 
-ct$source("./lib/lexers.js")
-ct$source("./lib/parsers.js")
-ct$source("./lib/cobolscript.js")
+ct$source("http://timelyportfolio.github.io/CobolScript/lib/lexers.js")
+ct$source("http://timelyportfolio.github.io/CobolScript/lib/parsers.js")
+ct$source("http://timelyportfolio.github.io/CobolScript/lib/cobolscript.js")
 
 ct$eval('var cobs = cobolscript;')
 
