@@ -1,3 +1,8 @@
+Slightly modified js to allow `CobolScript` to work in R with `V8` by @jeroenooms.  See [code.R](https://github.com/timelyportfolio/CobolScript/blob/gh-pages/code.R) for a couple simple examples.
+
+
+**All credit/attribution should be directed to [@ajlopez](https://github.com/ajlopez/CobolScript)**
+
 # CobolScript
 
 COBOL language compiler to Javascript. Work in Progress
@@ -110,7 +115,7 @@ npm test
 ## Contribution
 
 Feel free to [file issues](https://github.com/ajlopez/CobolScript) and submit
-[pull requests](https://github.com/ajlopez/CobolScript/pulls) — contributions are
+[pull requests](https://github.com/ajlopez/CobolScript/pulls) ? contributions are
 welcome.
 
 If you submit a pull request, please be sure to add or update corresponding
